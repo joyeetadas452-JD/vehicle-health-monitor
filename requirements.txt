@@ -1,0 +1,9 @@
+numpy
+pandas
+scikit-learn
+matplotlib
+joblib
+streamlit
+xgboost      # optional: train.py uses it automatically if installed
+shap         # optional
+tensorflow   # optional: for lstm_model.py
